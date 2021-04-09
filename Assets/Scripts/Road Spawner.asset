@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54f2e6da3c75e9248a8a9aee4296230b, type: 3}
+  m_Name: Road Spawner
+  m_EditorClassIdentifier: 
+  _roadPieces:
+  - {fileID: 6993388775127689792, guid: b21431263a66fd84ebb8c5a9f3e51709, type: 3}
+  - {fileID: 6979728532843919459, guid: ad182cc030f80d2418924040efeaaedb, type: 3}

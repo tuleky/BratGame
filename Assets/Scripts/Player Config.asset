@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8faf37ab7fe8403788f62bda3559464c, type: 3}
+  m_Name: Player Config
+  m_EditorClassIdentifier: 
+  mainCar: {fileID: -2406598028611971353, guid: dd9ff9cab13e30d4e970985a342d0b71, type: 3}
+  Cars:
+  - {fileID: 7037192163562511864, guid: 0a01d53e725914f419a73093d880b26d, type: 3}
+  - {fileID: 7206278641190248917, guid: a15414c391148534082bd54f8ede74e2, type: 3}
+  - {fileID: 6134602171306085846, guid: b692a516da5653a40a413b8ca2c7fdd4, type: 3}
+  - {fileID: 6874018668042788249, guid: f7ffbabf692425b48ac2247279a665e0, type: 3}
+  - {fileID: 5493910089155357199, guid: 5e7642e92cedb874faf44f50769e4046, type: 3}
+  maxHealth: 3
+  sideMoveSpeedModifier: 0.7
+  forwardMoveSpeedModifier: 0.4
