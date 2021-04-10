@@ -20,5 +20,5 @@ MonoBehaviour:
   - {fileID: 6874018668042788249, guid: f7ffbabf692425b48ac2247279a665e0, type: 3}
   - {fileID: 5493910089155357199, guid: 5e7642e92cedb874faf44f50769e4046, type: 3}
   maxHealth: 3
-  sideMoveSpeedModifier: 0.7
-  forwardMoveSpeedModifier: 0.4
+  sideMoveSpeedModifier: 0.4
+  forwardMoveSpeedModifier: 0.3
